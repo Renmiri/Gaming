@@ -1,0 +1,6 @@
+C:\Users\Warranty Voider\AppData\Local\Temporary Projects\GiveME2Entitlements\bin\Debug\GiveME2Entitlements.exe
+C:\Users\Warranty Voider\AppData\Local\Temporary Projects\GiveME2Entitlements\bin\Debug\GiveME2Entitlements.pdb
+C:\Users\Warranty Voider\AppData\Local\Temporary Projects\GiveME2Entitlements\obj\x86\Debug\GiveME2Entitlements.exe
+C:\Users\Warranty Voider\AppData\Local\Temporary Projects\GiveME2Entitlements\obj\x86\Debug\GiveME2Entitlements.pdb
+D:\CODE\C#\GiveME2Entitlements\GiveME2Entitlements\obj\x86\Debug\GiveME2Entitlements.exe
+D:\CODE\C#\GiveME2Entitlements\GiveME2Entitlements\obj\x86\Debug\GiveME2Entitlements.pdb

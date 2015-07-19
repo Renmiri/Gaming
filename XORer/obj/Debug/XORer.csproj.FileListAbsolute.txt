@@ -1,0 +1,12 @@
+D:\CODE\c#\XORer\XORer\bin\Debug\XORer.exe.config
+D:\CODE\c#\XORer\XORer\bin\Debug\XORer.exe
+D:\CODE\c#\XORer\XORer\bin\Debug\XORer.pdb
+D:\CODE\c#\XORer\XORer\obj\Debug\XORer.csprojResolveAssemblyReference.cache
+D:\CODE\c#\XORer\XORer\obj\Debug\XORer.Properties.Resources.resources
+D:\CODE\c#\XORer\XORer\obj\Debug\XORer.csproj.GenerateResource.Cache
+D:\CODE\c#\XORer\XORer\obj\Debug\XORer.exe
+D:\CODE\c#\XORer\XORer\obj\Debug\XORer.pdb
+D:\CODE\c#\XORer\XORer\bin\Debug\Be.Windows.Forms.HexBox.dll
+D:\CODE\c#\XORer\XORer\bin\Debug\Be.Windows.Forms.HexBox.pdb
+D:\CODE\c#\XORer\XORer\bin\Debug\Be.Windows.Forms.HexBox.xml
+D:\CODE\c#\XORer\XORer\obj\Debug\XORer.Form1.resources

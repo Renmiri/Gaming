@@ -1,0 +1,10 @@
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\Be.Windows.Forms.HexBox\bin\Debug\Be.Windows.Forms.HexBox.dll
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\Be.Windows.Forms.HexBox\bin\Debug\Be.Windows.Forms.HexBox.pdb
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\Be.Windows.Forms.HexBox\bin\Debug\Be.Windows.Forms.HexBox.xml
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\Be.Windows.Forms.HexBox\obj\Debug\ResolveAssemblyReference.cache
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.resources
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.Properties.Resources.resources
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\Be.Windows.Forms.HexBox\obj\Debug\ResGen.read.1.tlog
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\Be.Windows.Forms.HexBox\obj\Debug\ResGen.write.1.tlog
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.dll
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.pdb

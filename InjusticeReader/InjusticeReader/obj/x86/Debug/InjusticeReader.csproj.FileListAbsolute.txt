@@ -1,0 +1,29 @@
+C:\Users\Warranty Voider\AppData\Local\Temporary Projects\InjusticeReader\bin\Debug\InjusticeReader.exe
+C:\Users\Warranty Voider\AppData\Local\Temporary Projects\InjusticeReader\bin\Debug\InjusticeReader.pdb
+C:\Users\Warranty Voider\AppData\Local\Temporary Projects\InjusticeReader\obj\x86\Debug\InjusticeReader.Form1.resources
+C:\Users\Warranty Voider\AppData\Local\Temporary Projects\InjusticeReader\obj\x86\Debug\InjusticeReader.Properties.Resources.resources
+C:\Users\Warranty Voider\AppData\Local\Temporary Projects\InjusticeReader\obj\x86\Debug\InjusticeReader.csproj.GenerateResource.Cache
+C:\Users\Warranty Voider\AppData\Local\Temporary Projects\InjusticeReader\obj\x86\Debug\InjusticeReader.exe
+C:\Users\Warranty Voider\AppData\Local\Temporary Projects\InjusticeReader\obj\x86\Debug\InjusticeReader.pdb
+D:\CODE\C#\InjusticeReader\InjusticeReader\obj\x86\Debug\InjusticeReader.exe
+D:\CODE\C#\InjusticeReader\InjusticeReader\obj\x86\Debug\InjusticeReader.pdb
+D:\CODE\C#\InjusticeReader\InjusticeReader\obj\x86\Debug\InjusticeReader.Form1.resources
+D:\CODE\C#\InjusticeReader\InjusticeReader\obj\x86\Debug\InjusticeReader.Properties.Resources.resources
+D:\CODE\C#\InjusticeReader\InjusticeReader\obj\x86\Debug\InjusticeReader.csproj.GenerateResource.Cache
+D:\CODE\C#\InjusticeReader\InjusticeReader\bin\Debug\InjusticeReader.exe
+D:\CODE\C#\InjusticeReader\InjusticeReader\bin\Debug\InjusticeReader.pdb
+D:\CODE\C#\InjusticeReader\InjusticeReader\obj\x86\Debug\InjusticeReader.csprojResolveAssemblyReference.cache
+D:\CODE\C#\InjusticeReader\InjusticeReader\obj\x86\Debug\InjusticeReader.Browser.resources
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\obj\x86\Debug\InjusticeReader.exe
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\obj\x86\Debug\InjusticeReader.pdb
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\bin\Debug\InjusticeReader.exe
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\bin\Debug\InjusticeReader.pdb
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\obj\x86\Debug\InjusticeReader.Browser.resources
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\obj\x86\Debug\InjusticeReader.Form1.resources
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\obj\x86\Debug\InjusticeReader.Properties.Resources.resources
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\bin\Debug\Be.Windows.Forms.HexBox.dll
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\bin\Debug\Be.Windows.Forms.HexBox.pdb
+Z:\CODE\c#\InjusticeReader2\InjusticeReader\InjusticeReader\bin\Debug\Be.Windows.Forms.HexBox.xml

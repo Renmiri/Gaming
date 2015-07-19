@@ -1,0 +1,9 @@
+D:\CODE\C#\XEXDecompilerWV\XEXDecompilerWV\bin\Debug\XEXDecompilerWV.exe.config
+D:\CODE\C#\XEXDecompilerWV\XEXDecompilerWV\bin\Debug\XEXDecompilerWV.exe
+D:\CODE\C#\XEXDecompilerWV\XEXDecompilerWV\bin\Debug\XEXDecompilerWV.pdb
+D:\CODE\C#\XEXDecompilerWV\XEXDecompilerWV\obj\Debug\XEXDecompilerWV.csprojResolveAssemblyReference.cache
+D:\CODE\C#\XEXDecompilerWV\XEXDecompilerWV\obj\Debug\XEXDecompilerWV.Form1.resources
+D:\CODE\C#\XEXDecompilerWV\XEXDecompilerWV\obj\Debug\XEXDecompilerWV.Properties.Resources.resources
+D:\CODE\C#\XEXDecompilerWV\XEXDecompilerWV\obj\Debug\XEXDecompilerWV.csproj.GenerateResource.Cache
+D:\CODE\C#\XEXDecompilerWV\XEXDecompilerWV\obj\Debug\XEXDecompilerWV.exe
+D:\CODE\C#\XEXDecompilerWV\XEXDecompilerWV\obj\Debug\XEXDecompilerWV.pdb

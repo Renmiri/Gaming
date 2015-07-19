@@ -1,0 +1,5 @@
+D:\CODE\C#\ME2DLCUnlocker\ME2DLCUnlocker\bin\Debug\ME2DLCUnlocker.exe.config
+D:\CODE\C#\ME2DLCUnlocker\ME2DLCUnlocker\bin\Debug\ME2DLCUnlocker.exe
+D:\CODE\C#\ME2DLCUnlocker\ME2DLCUnlocker\bin\Debug\ME2DLCUnlocker.pdb
+D:\CODE\C#\ME2DLCUnlocker\ME2DLCUnlocker\obj\Debug\ME2DLCUnlocker.exe
+D:\CODE\C#\ME2DLCUnlocker\ME2DLCUnlocker\obj\Debug\ME2DLCUnlocker.pdb
